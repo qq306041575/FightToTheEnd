@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 1155596762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c142ba00f35d274686e88c6d8ef67e9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f07f87490e7188065411d46c246bfdf4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9673749ed25e4d4a911122497c54c35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38ebd6e914998904f99c89bf3e3f09ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6aa1822b27a9abd42899c81018354ef5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e29959e46c7ea7409560769cde085ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea1dddbf002ae2744bf5e3ab46c7cf8c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Pickup/Weapon2.prefab
+- Assets/Prefabs/Player/LocalPlayer.prefab
+- Assets/Prefabs/Pickup/Weapon1.prefab
+- Assets/Prefabs/Pickup/Weapon0.prefab
+Dependencies:
+- D:/U3D/FightToTheEnd/AssetBundles/WebGL/shared_player

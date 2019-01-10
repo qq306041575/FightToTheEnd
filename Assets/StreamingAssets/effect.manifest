@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2492759157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2db31d251269c1ed51faa24e83e1fa7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78d9048e807bc66b6c4f381ad2428ee1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2e987540bc0b7f458f9ebeb7b0dc8c6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Effect/Flesh.prefab
+- Assets/Prefabs/Effect/Sand.prefab
+- Assets/Prefabs/Effect/Wood.prefab
+Dependencies: []

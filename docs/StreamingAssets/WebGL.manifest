@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1137859783
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: effect
+      Dependencies: {}
+    Info_1:
+      Name: lua
+      Dependencies: {}
+    Info_2:
+      Name: ui
+      Dependencies: {}
+    Info_3:
+      Name: player_remote
+      Dependencies:
+        Dependency_0: shared_player
+    Info_4:
+      Name: player_local
+      Dependencies:
+        Dependency_0: shared_player
+    Info_5:
+      Name: shared_player
+      Dependencies: {}

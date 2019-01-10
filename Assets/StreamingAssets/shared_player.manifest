@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1307276298
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e05a16dec302abb6b3d223ef5876cc19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ed0b4021cb2ff22e62edcb53efd5f13
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sounds/RifleEquip.wav
+- Assets/Models/Other/Materials/M87T_Texture(Normal).mat
+- Assets/Models/Other/Textures/Deagle(Normal).jpg
+- Assets/Sounds/PistolFire.wav
+- Assets/Sounds/ShotgunFire.wav
+- Assets/Sounds/PlayerDie.wav
+- Assets/Models/Other/M87T.fbx
+- Assets/Models/Other/Deagle.fbx
+- Assets/Sounds/GunReload.wav
+- Assets/Sounds/RifleFire.wav
+- Assets/Models/Other/Textures/M87T_Texture(Normal).jpg
+- Assets/Models/Other/Materials/MP5KA4_Texture(Normal).mat
+- Assets/Sounds/ShotgunEquip.wav
+- Assets/Models/Other/Textures/MP5KA4(Normal).jpg
+- Assets/Effects/Materials/MuzzleFlashParticle.mat
+- Assets/Models/Other/Materials/Deagle(Normal).mat
+- Assets/Effects/Textures/FlashParticle.tif
+- Assets/Sounds/PistolEquip.wav
+- Assets/Models/Other/MP5KA4.fbx
+Dependencies: []

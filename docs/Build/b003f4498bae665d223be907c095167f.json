@@ -1,0 +1,12 @@
+{
+"companyName": "czq",
+"productName": "FightToTheEnd",
+"dataUrl": "83e4358e2f80b8eaefbedc5b78999646.unityweb",
+"asmCodeUrl": "d51b780f7a9600346374c6b076db096e.unityweb",
+"asmMemoryUrl": "738040f641cdbf3ab7ba6df7de2d5139.unityweb",
+"asmFrameworkUrl": "898d4f90b96d698180f382adc968fa06.unityweb",
+"TOTAL_MEMORY": 536870912,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
